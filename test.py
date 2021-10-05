@@ -7,6 +7,8 @@ if question == "A" :
 elif question == "B" :
     print(number_1 * number_2)
 elif question == "C" :
+    print (number_1 / number_2)
+elif question == "D" :
     print (number_1 - number_2)
 else :
     print("error!")
